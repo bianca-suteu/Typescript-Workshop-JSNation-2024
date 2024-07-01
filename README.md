@@ -4,3 +4,5 @@ Summary of „TypeScript Deep Dive" workshop with Josh Goldberg at JS Nation in 
 Slides available here 
 https://github.com/bianca-suteu/Typescript-Workshop-JSNation-2024.git
 
+Hands on exercises 
+https://www.learningtypescript.com/projects
